@@ -1,5 +1,5 @@
 const APP_ID = "937e8e54329743378edb829d48893849"
-const TOKEN = "007eJxTYPC5ethDoSvghvwaw7kiKY1Lq38KP88/VFn8fMqd+EPLxN4qMFgam6dapJqaGBtZmpsYG5tbpKYkWRhZpphYWFgaW5hYcpbdzWgIZGS42uHFzMgAgSA+H4NHam5qcYZCcElRamJuMQMDAMtLI3I="
+const TOKEN = "007eJxTYDDr+Hj4YfKdV+8Tl9zvj4m8uHOrHmuTgP9FthnmpYe/bP2kwGBpbJ5qkWpqYmxkaW5ibGxukZqSZGFkmWJiYWFpbGFiqfjjfkZDICPD5F0PmRkZIBDE52XwSM1NLc5QKC4pSk3MZWAAAHZhJb8="
 const CHANNEL = "Hemesh Streams"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
