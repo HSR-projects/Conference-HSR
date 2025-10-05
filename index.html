@@ -20,6 +20,14 @@
             <button id="camera-btn">Camera on</button>
         </div>
     </div>
+    <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').then(() => {
+    console.log('Service Worker registered.');
+  });
+}
+</script>
+
     
 </body>
 <!-- <script src="https://download.agora.io/sdk/release/AgoraRTC_N.js"></script> -->
